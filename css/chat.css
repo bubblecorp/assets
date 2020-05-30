@@ -1,0 +1,35 @@
+.header,
+.header-bar {
+  background-color: #1a202c!important;
+}
+
+#panel-counter,
+#panel-button,
+.header,
+.header-avatar,
+.header-channel,
+.header-status,
+.participants,
+.counter {
+  display: none!important;
+  visibility: hidden!important;
+}
+
+.button {
+  color: #1a202c!important;
+  border-color: #1a202c!important;
+}
+
+.button:hover {
+  background-color: #1a202c!important;
+  color: #fff!important;
+}
+
+.chat {
+  padding-top: 30px!important;
+}
+
+.join {
+  /*background: #fff!important;*/
+  display:none!important;
+}
